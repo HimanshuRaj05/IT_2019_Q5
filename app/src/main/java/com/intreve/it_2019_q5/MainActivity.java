@@ -7,11 +7,11 @@ import android.view.View;
 import android.widget.Button;
 
 
-//Important: Read the comments 
+//IMPORTANT: READ THE COMMENTS
 
 //Answer to this exam question is the whole MyDatabaseHelper class code
 
-//Writing MainActivity code in the exam is not necessary
+//Writing MainActivity code in the exam is mostly optional for this question, not necessary
 
 public class MainActivity extends AppCompatActivity {
     Button btnInsert, btnDelete;
